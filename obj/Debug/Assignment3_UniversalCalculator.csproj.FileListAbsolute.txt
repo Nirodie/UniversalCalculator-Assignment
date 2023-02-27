@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\bin\Debug\Assignment3_UniversalCalculator.exe.config
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\bin\Debug\Assignment3_UniversalCalculator.exe
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\bin\Debug\Assignment3_UniversalCalculator.pdb
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.MainForm.resources
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.Properties.Resources.resources
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.exe
+E:\Visual Studio Projects\Assignment3\Assignment3_UniversalCalculator\obj\Debug\Assignment3_UniversalCalculator.pdb
